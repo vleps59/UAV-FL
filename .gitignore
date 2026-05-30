@@ -1,0 +1,15 @@
+__pycache__/ 
+*.pyc 
+.venv/ 
+venv/ 
+env/ 
+data/ 
+*.jpg 
+*.jpeg 
+*.png 
+*.txt 
+*.parquet 
+.cache/ 
+.vscode/ 
+.idea/ 
+logs/ 
