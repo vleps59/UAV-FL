@@ -37,6 +37,18 @@ text
 ├── run_simulation.py     # Main entry point
 └── convert_to_yolo_corrected.py  # Dataset converter
 
+##One-line setup (if they're familiar with Python):
+bash
+git clone <your-repo-url> && cd <repo-name> && pip install -e . && python convert_to_yolo_corrected.py
+&& python run_simulation.py
+
+##🚨 Important Note for Colleagues:
+The dataset is NOT stored in GitHub (too large)
+
+They must run convert_to_yolo_corrected.py to download it automatically
+
+First run takes ~5-10 minutes to download 2,338 images
+
 ## Next Steps for Research
 Attacks: Modify client_app.py to add Gaussian noise to model updates
 
