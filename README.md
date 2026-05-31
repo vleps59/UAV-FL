@@ -1,7 +1,8 @@
 ```Markdown
 # UAV-Swarm Federated Learning for Object Detection
 
-Federated Learning system for drone swarms to detect flying objects (drones, birds, airplanes, helicopters, balloons) without sharing private imagery.
+Federated Learning system for drone swarms to detect flying objects (drones, birds, airplanes, helicopters, balloons) without
+sharing private imagery.
 
 ## 🚁 Features
 - **3 UAV clients** simulating a drone swarm
